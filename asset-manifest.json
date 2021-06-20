@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/poojakhatri/startup-name-generator/static/css/main.2168a050.chunk.css",
-    "main.js": "/poojakhatri/startup-name-generator/static/js/main.2372ce99.chunk.js",
-    "main.js.map": "/poojakhatri/startup-name-generator/static/js/main.2372ce99.chunk.js.map",
-    "runtime-main.js": "/poojakhatri/startup-name-generator/static/js/runtime-main.ad85cddc.js",
-    "runtime-main.js.map": "/poojakhatri/startup-name-generator/static/js/runtime-main.ad85cddc.js.map",
-    "static/js/2.a152b3d5.chunk.js": "/poojakhatri/startup-name-generator/static/js/2.a152b3d5.chunk.js",
-    "static/js/2.a152b3d5.chunk.js.map": "/poojakhatri/startup-name-generator/static/js/2.a152b3d5.chunk.js.map",
-    "index.html": "/poojakhatri/startup-name-generator/index.html",
-    "static/css/main.2168a050.chunk.css.map": "/poojakhatri/startup-name-generator/static/css/main.2168a050.chunk.css.map",
-    "static/js/2.a152b3d5.chunk.js.LICENSE.txt": "/poojakhatri/startup-name-generator/static/js/2.a152b3d5.chunk.js.LICENSE.txt"
+    "main.css": "//poojakhatri.github.io/startup-name-generator/static/css/main.2168a050.chunk.css",
+    "main.js": "//poojakhatri.github.io/startup-name-generator/static/js/main.2372ce99.chunk.js",
+    "main.js.map": "//poojakhatri.github.io/startup-name-generator/static/js/main.2372ce99.chunk.js.map",
+    "runtime-main.js": "//poojakhatri.github.io/startup-name-generator/static/js/runtime-main.34acac73.js",
+    "runtime-main.js.map": "//poojakhatri.github.io/startup-name-generator/static/js/runtime-main.34acac73.js.map",
+    "static/js/2.a152b3d5.chunk.js": "//poojakhatri.github.io/startup-name-generator/static/js/2.a152b3d5.chunk.js",
+    "static/js/2.a152b3d5.chunk.js.map": "//poojakhatri.github.io/startup-name-generator/static/js/2.a152b3d5.chunk.js.map",
+    "index.html": "//poojakhatri.github.io/startup-name-generator/index.html",
+    "static/css/main.2168a050.chunk.css.map": "//poojakhatri.github.io/startup-name-generator/static/css/main.2168a050.chunk.css.map",
+    "static/js/2.a152b3d5.chunk.js.LICENSE.txt": "//poojakhatri.github.io/startup-name-generator/static/js/2.a152b3d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad85cddc.js",
+    "static/js/runtime-main.34acac73.js",
     "static/js/2.a152b3d5.chunk.js",
     "static/css/main.2168a050.chunk.css",
     "static/js/main.2372ce99.chunk.js"
